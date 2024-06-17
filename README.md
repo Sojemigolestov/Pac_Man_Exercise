@@ -1,3 +1,6 @@
+
+<img src="https://github.com/Sojemigolestov/Pac_Man_Exercise/assets/165064992/ccd24f46-72fe-4d66-b46c-63846f26ce81" height = "100px">
+
 # PacMen Exercise! 
 
 # Project description
